@@ -3,6 +3,7 @@
 This project analyzes Swiggy food delivery sales data using Microsoft Excel to understand customer behavior, restaurant performance, and sales trends.
 The goal is to create an interactive dashboard that helps visualize important business KPIs such as revenue, ratings, order volume, and average order value.
 This project demonstrates data analysis, data cleaning, pivot tables, and dashboard creation skills in Excel, which are essential for Data Analyst roles.
+
 🎯 Problem Statement
 The objective of this project is to analyze food delivery data and track key business metrics (KPIs) to understand:
 1.Sales performance
