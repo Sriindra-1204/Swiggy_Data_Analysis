@@ -1,4 +1,5 @@
 🍔 Swiggy Sales Analysis – Excel Dashboard Project
+
 📌 Project Overview
 This project analyzes Swiggy food delivery sales data using Microsoft Excel to understand customer behavior, restaurant performance, and sales trends.
 The goal is to create an interactive dashboard that helps visualize important business KPIs such as revenue, ratings, order volume, and average order value.
@@ -11,6 +12,7 @@ The objective of this project is to analyze food delivery data and track key bus
 3.Order patterns
 4.Restaurant performance
 The dashboard helps businesses make data-driven decisions to improve service quality and revenue.
+
 📊 Key Performance Indicators (KPIs)
 1️⃣ Total Sales (₹)
 Overall revenue generated from all food orders.
@@ -23,6 +25,7 @@ Formula: Average Order Value = Total Sales / Total Orders
 Total number of customer reviews received.
 5️⃣ Total Orders
 Total number of food orders placed.
+
 📁 Dataset Description
 The dataset contains information related to Swiggy orders and restaurant performance.
 Typical columns used in the dataset include:
@@ -34,6 +37,7 @@ Order Amount
 Rating
 Number of Ratings
 Order Date
+
 🛠 Tools Used
 1.Microsoft Excel
 2.Data Cleaning
@@ -42,6 +46,7 @@ Order Date
 5.Slicers
 6.Excel Dashboard Design
 📈 Dashboard Features
+
 The Excel dashboard includes:
 📊 Total Sales Overview
 ⭐ Average Rating Analysis
@@ -50,11 +55,13 @@ The Excel dashboard includes:
 📝 Ratings Count
 🍽 Restaurant Performance Charts
 📅 Time-based Sales Trends
+
 Interactive filters allow users to analyze data by:
 Restaurant
 Category
 Location
 Time period
+
 🔍 Key Insights (Example)
 Some insights that can be obtained from the dashboard:
 Restaurants with the highest sales
